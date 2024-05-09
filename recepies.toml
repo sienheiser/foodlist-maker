@@ -1,0 +1,88 @@
+["Peanutbutter Cheesecake"]
+ingredients = """
+weight - description
+266g - oreo cookies
+75g - unsalted butter
+1/2 tsp - salt
+550g - cream cheese
+190g - icing sugar
+250g - smooth peanut butter
+1 tsp - vanilla essence
+125ml - heavy cream
+150g - dark chocolate chips
+160ml - thickened cream
+"""
+
+instructions = """
+Make base
+01. Take a 23 cm springfoam pan and buttter up the interior. Then cover the interior with
+baking paper. Do not skip this step!
+
+02. Take the crackers and blend them with 75g of melted butter and 1/2 tsp of salt. 
+
+03. Take the blended crackers and place them into the springfoam pan. Then level 
+crackers and place the spring foam pan in the fridge.
+
+Make filling
+04. Take all the cream cheese and all the icing sugar and place them into a big
+bowl. Then start mixing slowly until the cream cheese has soften and both the
+ingredients are mixed. Then start mixing them on a higher speed for about 
+one minute.
+
+05. Then add all the peanut butter to the mixture, all the vanilla essence to the mixture.
+Start mixing them slowly for one minute, then mix them on medium for 2 min or until extremely
+smooth.
+
+06. Add 125 ml of heavy cream to the mixture. Start mixing on slow until everthing is combined.
+Then start mixing on medium for about 2 minutes.
+
+07. Take the mixutre and place it into the springfoam pan. Speard it out and hit the pan on onto
+the table to remove any bubbles. You can place this in the fridge for 4 hours or overnight, or in the freezer 
+for two and half hours.
+
+Make ganache
+08. Take the chocolate and place it in a small sauce pan with 160 ml heavy cream. Cook it over a lot heat and
+mix it regularly. Take the cheesecake out and pour the ganache over it. Place it in the refrigirator again for
+about 1 hour.
+"""
+
+["Panner tikka"]
+ingredients = """
+weight - description
+2 pack - panner
+3 - onion
+3 - garlic clove
+1 cm - ginger
+2.5 tbps - garam masala
+1.0 tbps - paprika powder
+1.0 tps - chili flakes
+0.5 tps - cumin seeds
+0.5 tps - mustard seeds
+3 can - tomato sauce
+3 tbps - tomato puree
+2 tps - worcestershire sauce
+"""
+
+instructions = """
+To be written
+"""
+
+["Vegetable stew"]
+ingredients = """
+weight - description
+2 - onion
+2 - garlic clove
+3 can - tomato sauce
+2 tbps - tomato puree
+0.5 tps - cumin seeds
+0.5 tps - mustard seeds
+1.0 tbps - paprika powder
+1.0 tps - chili flakes
+0.7 kg - potato
+0.5 kg - sweet potato
+1 - zuccini
+"""
+
+instructions = """
+To be written
+"""
