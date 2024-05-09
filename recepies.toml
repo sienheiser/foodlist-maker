@@ -1,16 +1,15 @@
 ["Peanutbutter Cheesecake"]
 ingredients = """
-weight - description
-266g - oreo cookies
-75g - unsalted butter
-1/2 tsp - salt
-550g - cream cheese
-190g - icing sugar
-250g - smooth peanut butter
-1 tsp - vanilla essence
-125ml - heavy cream
-150g - dark chocolate chips
-160ml - thickened cream
+266 g-oreo cookies
+75 g-unsalted butter
+1/2 tsp-salt
+550 g-cream cheese
+190 g-icing sugar
+250 g-smooth peanut butter
+1 tsp-vanilla essence
+125 ml-heavy cream
+150 g-dark chocolate chips
+160 ml-thickened cream
 """
 
 instructions = """
@@ -48,19 +47,18 @@ about 1 hour.
 
 ["Panner tikka"]
 ingredients = """
-weight - description
-2 pack - panner
-3 - onion
-3 - garlic clove
-1 cm - ginger
-2.5 tbps - garam masala
-1.0 tbps - paprika powder
-1.0 tps - chili flakes
-0.5 tps - cumin seeds
-0.5 tps - mustard seeds
-3 can - tomato sauce
-3 tbps - tomato puree
-2 tps - worcestershire sauce
+2 pack-panner
+3-onion
+3-garlic clove
+1 cm-ginger
+2.5 tbps-garam masala
+1.0 tbps-paprika powder
+1.0 tps-chili flakes
+0.5 tps-cumin seeds
+0.5 tps-mustard seeds
+3 can-tomato sauce
+3 tbps-tomato puree
+2 tps-worcestershire sauce
 """
 
 instructions = """
@@ -69,20 +67,29 @@ To be written
 
 ["Vegetable stew"]
 ingredients = """
-weight - description
-2 - onion
-2 - garlic clove
-3 can - tomato sauce
-2 tbps - tomato puree
-0.5 tps - cumin seeds
-0.5 tps - mustard seeds
-1.0 tbps - paprika powder
-1.0 tps - chili flakes
-0.7 kg - potato
-0.5 kg - sweet potato
-1 - zuccini
+2-onion
+2-garlic clove
+3 can-tomato sauce
+2 tbps-tomato puree
+0.5 tps-cumin seeds
+0.5 tps-mustard seeds
+1.0 tbps-paprika powder
+1.0 tps-chili flakes
+0.7 kg-potato
+0.5 kg-sweet potato
+1-zuccini
 """
 
 instructions = """
 To be written
+"""
+
+["Random"]
+ingredients = """
+10-onion
+1-water
+"""
+
+instructions = """
+
 """
